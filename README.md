@@ -16,5 +16,14 @@ This repo contains git and github files
 
 [google](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![Image](https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg)
 ![1D](https://images-na.ssl-images-amazon.com/images/I/51LcR40AhML.jpg)
+
+* Unordered List
+  * item1
+  * item2
+  * item3
+1. Ordered List
+    1. item1
+    2. item2
+    3. item3
+  
